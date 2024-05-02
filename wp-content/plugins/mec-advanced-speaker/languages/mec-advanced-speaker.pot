@@ -1,0 +1,337 @@
+# Copyright (C) 2022 Webnus
+# This file is distributed under the same license as the MEC Advanced Speaker plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MEC Advanced Speaker 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mec-advanced-speaker\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-26T14:18:24+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: mec-advanced-speaker\n"
+
+#. Plugin Name of the plugin
+msgid "MEC Advanced Speaker"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://webnus.net/modern-events-calendar/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This addon gives you an exclusive page for every Speaker and you can have a list of speakers wherever you like using a shortcode. You can also display speakers in a slider format."
+msgstr ""
+
+#. Author of the plugin
+msgid "Webnus"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://webnus.net"
+msgstr ""
+
+#: core/checkLicense/update-activation.php:272
+msgid "Activation failed. Please check your purchase code or license type.<br><b>Note: Your purchase code should match your licesne type.</b>"
+msgstr ""
+
+#: core/checkLicense/update-activation.php:272
+msgid "Troubleshooting"
+msgstr ""
+
+#: core/lib/backend.ui.php:77
+#: core/lib/backend.ui.php:92
+msgid "Featured"
+msgstr ""
+
+#: core/lib/backend.ui.php:118
+msgid "Advanced %s"
+msgstr ""
+
+#: core/lib/backend.ui.php:118
+#: core/lib/settings.ui.php:5
+#: core/lib/widget.php:16
+#: core/skins/grid/render.php:65
+#: core/skins/list/render.php:64
+#: core/skins/single.php:56
+#: core/skins/slider.php:63
+msgid "Speaker"
+msgstr ""
+
+#: core/lib/frontend.ui.php:94
+msgid "<h3>Modern Event Calendar Advanced Speaker Single Page</h3>"
+msgstr ""
+
+#: core/lib/settings.ui.php:24
+#: core/lib/settings.ui.php:201
+msgid "Priority Website on input"
+msgstr ""
+
+#: core/lib/settings.ui.php:25
+#: core/lib/settings.ui.php:199
+msgid "Force Website Link"
+msgstr ""
+
+#: core/lib/settings.ui.php:26
+#: core/lib/settings.ui.php:200
+msgid "Force Single Page"
+msgstr ""
+
+#: core/lib/settings.ui.php:32
+msgid "Advanced %s Settings"
+msgstr ""
+
+#: core/lib/settings.ui.php:34
+#: core/lib/settings.ui.php:45
+msgid "Single Page"
+msgstr ""
+
+#: core/lib/settings.ui.php:47
+msgid "For show the Speaker details after clicking the \"View Details\" button. <br> ShortCode on page"
+msgstr ""
+
+#: core/lib/settings.ui.php:57
+msgid "%s Default Settings"
+msgstr ""
+
+#: core/lib/settings.ui.php:59
+#: core/lib/settings.ui.php:70
+msgid "Skin"
+msgstr ""
+
+#: core/lib/settings.ui.php:72
+msgid "Skin for showing the %s skin."
+msgstr ""
+
+#: core/lib/settings.ui.php:81
+#: core/lib/settings.ui.php:92
+msgid "%s Event Skin"
+msgstr ""
+
+#: core/lib/settings.ui.php:94
+msgid "Event skin for showing the %s skin."
+msgstr ""
+
+#: core/lib/settings.ui.php:103
+#: core/lib/settings.ui.php:108
+msgid "Event Limit"
+msgstr ""
+
+#: core/lib/settings.ui.php:110
+msgid "Show evented for %s on single page. Default: %s"
+msgstr ""
+
+#: core/lib/settings.ui.php:120
+#: core/lib/settings.ui.php:126
+msgid "%s Limit"
+msgstr ""
+
+#: core/lib/settings.ui.php:123
+msgid "Default"
+msgstr ""
+
+#: core/lib/settings.ui.php:128
+msgid "Show Rows for %s on single page. Default: %s"
+msgstr ""
+
+#: core/lib/settings.ui.php:137
+#: core/lib/settings.ui.php:142
+msgid "Event Cols"
+msgstr ""
+
+#: core/lib/settings.ui.php:144
+msgid "Show evented for %s on single page. Default: 4"
+msgstr ""
+
+#: core/lib/settings.ui.php:153
+#: core/lib/settings.ui.php:162
+#: core/skins/grid/tpl.php:49
+#: core/skins/list/tpl.php:50
+msgid "Load More"
+msgstr ""
+
+#: core/lib/settings.ui.php:158
+msgid "Load More Button on event list bottom."
+msgstr ""
+
+#: core/lib/settings.ui.php:164
+msgid "Show evented for %s on single page. Default: no"
+msgstr ""
+
+#: core/lib/settings.ui.php:173
+msgid "Show Event List"
+msgstr ""
+
+#: core/lib/settings.ui.php:178
+msgid "Show Event list on single page."
+msgstr ""
+
+#: core/lib/settings.ui.php:184
+msgid "Details Link"
+msgstr ""
+
+#: core/lib/settings.ui.php:195
+msgid "Details View Link"
+msgstr ""
+
+#: core/lib/settings.ui.php:199
+msgid "Force Loaded from Website Filed."
+msgstr ""
+
+#: core/lib/settings.ui.php:200
+msgid "Force Loaded from Auto Single page."
+msgstr ""
+
+#: core/lib/settings.ui.php:201
+msgid "On input website field loaded from website field, then loaded on single page."
+msgstr ""
+
+#: core/lib/settings.ui.php:211
+msgid "Details Link Target"
+msgstr ""
+
+#: core/lib/settings.ui.php:216
+msgid "New Window"
+msgstr ""
+
+#: core/lib/settings.ui.php:217
+msgid "Current Window"
+msgstr ""
+
+#: core/lib/settings.ui.php:231
+msgid "Shortcode Guideline"
+msgstr ""
+
+#: core/lib/settings.ui.php:234
+msgid "Single Speaker:"
+msgstr ""
+
+#: core/lib/settings.ui.php:241
+msgid "Speakers List:"
+msgstr ""
+
+#: core/lib/settings.ui.php:248
+msgid "Featured Speakers:"
+msgstr ""
+
+#: core/lib/settings.ui.php:256
+msgid "Exclude-List:"
+msgstr ""
+
+#: core/lib/settings.ui.php:256
+msgid "website, address, tel, email"
+msgstr ""
+
+#: core/lib/settings.ui.php:257
+msgid "Note:"
+msgstr ""
+
+#: core/lib/settings.ui.php:257
+msgid "instead {} or {true/false} or {ID} just use text or number without {} for example : instead load_more=\"{true/false}\" use this: load_more=\"false\""
+msgstr ""
+
+#: core/lib/widget.php:18
+msgid "Advanced %s Widget"
+msgstr ""
+
+#: core/lib/widget.php:66
+msgid "New title"
+msgstr ""
+
+#: core/lib/widget.php:97
+msgid "Limit:"
+msgstr ""
+
+#: core/lib/widget.php:103
+msgid "Exclude:"
+msgstr ""
+
+#: core/lib/widget.php:109
+msgid "HTML Option:"
+msgstr ""
+
+#: core/skins/grid/render.php:29
+#: core/skins/list/render.php:76
+#: core/skins/single.php:11
+#: core/skins/slider.php:19
+msgid "FEATURED"
+msgstr ""
+
+#: core/skins/grid/render.php:64
+#: core/skins/list/render.php:63
+#: core/skins/slider.php:62
+msgid "VIEW %s"
+msgstr ""
+
+#: core/skins/grid/render.php:79
+#: core/skins/list/render.php:50
+#: core/skins/slider.php:49
+msgid "Ongoing Events:"
+msgstr ""
+
+#: core/skins/grid/render.php:83
+#: core/skins/list/render.php:55
+msgid "All Events:"
+msgstr ""
+
+#: core/skins/grid/tpl.php:40
+#: core/skins/grid/tpl.php:44
+#: core/skins/list/tpl.php:40
+#: core/skins/list/tpl.php:44
+msgid "No item found!"
+msgstr ""
+
+#: core/skins/single.php:55
+msgid "About"
+msgstr ""
+
+#: core/skins/slider.php:82
+msgid "No speaker found!"
+msgstr ""
+
+#: core/speakerWidget/frontend.php:98
+msgid "Speaker Not Found!"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:134
+msgid "Search"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:143
+msgid "Sort by"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:144
+msgid "Name"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:145
+msgid "Added Date"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:147
+msgid "All Events"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:161
+msgid "Sort"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:162
+msgid "DESC"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:163
+msgid "ASC"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:166
+msgid "Filter"
+msgstr ""
+
+#: mec-advanced-speaker.php:66
+msgid "MEC Speaker Details Single Page"
+msgstr ""

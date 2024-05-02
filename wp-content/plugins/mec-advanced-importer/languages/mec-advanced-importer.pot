@@ -1,0 +1,980 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Modern Events Calendar Advanced Importer\n"
+"POT-Creation-Date: 2021-11-21 12:19+0330\n"
+"PO-Revision-Date: 2017-03-06 12:11+0330\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mec-advanced-importer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/checkLicense/check-activation.php:205
+msgid ""
+"Activation faild. Please check your purchase code or license type."
+"<br><b>Note: Your purchase code should match your licesne type.</b>"
+msgstr ""
+
+#: core/checkLicense/check-activation.php:205
+msgid "Troubleshooting"
+msgstr ""
+
+#: core/lib/backend.ui.php:68 core/tabs/settings.php:119
+msgid "Facebook"
+msgstr ""
+
+#: core/lib/backend.ui.php:72 core/tabs/settings.php:120
+msgid "Eventbrite"
+msgstr ""
+
+#: core/lib/backend.ui.php:76 core/tabs/settings.php:121
+msgid "Meetup"
+msgstr ""
+
+#: core/lib/backend.ui.php:80 core/tabs/settings.php:122
+msgid "Google"
+msgstr ""
+
+#: core/lib/backend.ui.php:84 core/tabs/settings.php:123
+msgid "MEC API"
+msgstr ""
+
+#: core/lib/backend.ui.php:88
+msgid "Third Party"
+msgstr ""
+
+#: core/lib/backend.ui.php:92
+msgid "ICS / CSV"
+msgstr ""
+
+#: core/lib/backend.ui.php:97 core/lib/backend.ui.php:463
+msgid "Import History"
+msgstr ""
+
+#: core/lib/backend.ui.php:101
+msgid "Settings"
+msgstr ""
+
+#: core/lib/backend.ui.php:284 core/tabs/google.php:532
+#: core/tabs/mecapi.php:179 core/tabs/meetup.php:363
+#: core/tabs/thirdparty.php:183
+msgid "Nothing selected"
+msgstr ""
+
+#: core/lib/backend.ui.php:289
+msgid "Data failed"
+msgstr ""
+
+#: core/lib/backend.ui.php:357 core/tabs/google.php:39
+#: core/tabs/settings-table.php:70
+msgid "Needs authentication"
+msgstr ""
+
+#: core/lib/backend.ui.php:358 core/tabs/google.php:40
+#: core/tabs/settings-table.php:70
+msgid "Authentication successful"
+msgstr ""
+
+#: core/lib/backend.ui.php:406
+msgctxt "post type general name"
+msgid "Scheduled Import"
+msgstr ""
+
+#: core/lib/backend.ui.php:407
+msgctxt "post type singular name"
+msgid "Scheduled Import"
+msgstr ""
+
+#: core/lib/backend.ui.php:408
+msgctxt "admin menu"
+msgid "Scheduled Imports"
+msgstr ""
+
+#: core/lib/backend.ui.php:409
+msgctxt "add new on admin bar"
+msgid "Scheduled Import"
+msgstr ""
+
+#: core/lib/backend.ui.php:410 core/lib/backend.ui.php:449
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: core/lib/backend.ui.php:411
+msgid "Add New Import"
+msgstr ""
+
+#: core/lib/backend.ui.php:412 core/tabs/contents/eventbrite.php:19
+#: core/tabs/contents/facebook.php:19 core/tabs/contents/google.php:19
+#: core/tabs/contents/mecapi.php:19 core/tabs/contents/meetup.php:19
+#: core/tabs/contents/thirdparty.php:19
+msgid "New Import"
+msgstr ""
+
+#: core/lib/backend.ui.php:413
+msgid "Edit Import"
+msgstr ""
+
+#: core/lib/backend.ui.php:414
+msgid "View Import"
+msgstr ""
+
+#: core/lib/backend.ui.php:415
+msgid "All Scheduled Imports"
+msgstr ""
+
+#: core/lib/backend.ui.php:416
+msgid "Search Scheduled Imports"
+msgstr ""
+
+#: core/lib/backend.ui.php:417
+msgid "Parent Imports:"
+msgstr ""
+
+#: core/lib/backend.ui.php:418
+msgid "No imports found."
+msgstr ""
+
+#: core/lib/backend.ui.php:419
+msgid "No Imports found in Trash."
+msgstr ""
+
+#: core/lib/backend.ui.php:424
+msgid "Scheduled Imports."
+msgstr ""
+
+#: core/lib/backend.ui.php:445
+msgctxt "post type general name"
+msgid "Import History"
+msgstr ""
+
+#: core/lib/backend.ui.php:446
+msgctxt "post type singular name"
+msgid "Import History"
+msgstr ""
+
+#: core/lib/backend.ui.php:447
+msgctxt "admin menu"
+msgid "Import History"
+msgstr ""
+
+#: core/lib/backend.ui.php:448
+msgctxt "add new on admin bar"
+msgid "Import History"
+msgstr ""
+
+#: core/lib/backend.ui.php:450
+msgid "Add New"
+msgstr ""
+
+#: core/lib/backend.ui.php:451
+msgid "New History"
+msgstr ""
+
+#: core/lib/backend.ui.php:452
+msgid "Edit History"
+msgstr ""
+
+#: core/lib/backend.ui.php:453
+msgid "View History"
+msgstr ""
+
+#: core/lib/backend.ui.php:454
+msgid "All Import History"
+msgstr ""
+
+#: core/lib/backend.ui.php:455
+msgid "Search History"
+msgstr ""
+
+#: core/lib/backend.ui.php:456
+msgid "Parent History:"
+msgstr ""
+
+#: core/lib/backend.ui.php:457
+msgid "No History found."
+msgstr ""
+
+#: core/lib/backend.ui.php:458
+msgid "No History found in Trash."
+msgstr ""
+
+#: core/lib/backend.ui.php:539
+msgid "MEC Advanced Import"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: core/lib/main_ui.php:8
+msgid "MEC Advanced Importer"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:26 core/tabs/contents/eventbrite.php:288
+#: core/tabs/contents/facebook.php:26 core/tabs/contents/google.php:26
+#: core/tabs/contents/google.php:311 core/tabs/contents/mecapi.php:26
+#: core/tabs/contents/mecapi.php:282 core/tabs/contents/meetup.php:26
+#: core/tabs/contents/meetup.php:327 core/tabs/contents/thirdparty.php:26
+#: core/tabs/contents/thirdparty.php:323
+msgid "Scheduled Imports"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:36 core/tabs/contents/facebook.php:36
+#: core/tabs/contents/google.php:39 core/tabs/contents/mecapi.php:35
+#: core/tabs/contents/meetup.php:35 core/tabs/contents/thirdparty.php:35
+msgid "Import Options"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:40 core/tabs/contents/facebook.php:41
+#: core/tabs/contents/google.php:43 core/tabs/contents/mecapi.php:39
+#: core/tabs/contents/meetup.php:39 core/tabs/contents/thirdparty.php:39
+msgid "Category"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:69 core/tabs/contents/facebook.php:68
+#: core/tabs/contents/google.php:69 core/tabs/contents/mecapi.php:68
+#: core/tabs/contents/meetup.php:65 core/tabs/contents/thirdparty.php:65
+msgid "Import By"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:75 core/tabs/contents/facebook.php:74
+#: core/tabs/contents/google.php:75 core/tabs/contents/meetup.php:71
+msgid "My Events"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:78
+msgid "Eventbrite Event ID"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:85 core/tabs/contents/facebook.php:90
+#: core/tabs/contents/google.php:88 core/tabs/contents/mecapi.php:84
+#: core/tabs/contents/meetup.php:87 core/tabs/contents/thirdparty.php:82
+msgid "Imported by"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:89 core/tabs/contents/facebook.php:94
+#: core/tabs/contents/google.php:92 core/tabs/contents/mecapi.php:88
+#: core/tabs/contents/meetup.php:91 core/tabs/contents/thirdparty.php:86
+msgid "Import options selected by my-events, page, group or specific ID."
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:101 core/tabs/contents/mecapi.php:100
+msgid "Eventbrite Event IDs"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:108 core/tabs/contents/facebook.php:112
+#: core/tabs/contents/google.php:78 core/tabs/contents/google.php:109
+#: core/tabs/contents/mecapi.php:77 core/tabs/contents/mecapi.php:107
+#: core/tabs/contents/meetup.php:108 core/tabs/contents/thirdparty.php:74
+#: core/tabs/contents/thirdparty.php:104
+msgid "Event ID"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:112
+msgid ""
+"One event ID per line, ( Eg. Event ID for https://www.eventbrite.com/"
+"events/123456789/ is \"123456789\" )."
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:123 core/tabs/contents/facebook.php:173
+#: core/tabs/contents/google.php:170 core/tabs/contents/mecapi.php:122
+#: core/tabs/contents/meetup.php:169 core/tabs/contents/thirdparty.php:155
+msgid "Import Type"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:128 core/tabs/contents/facebook.php:178
+#: core/tabs/contents/google.php:175 core/tabs/contents/mecapi.php:127
+#: core/tabs/contents/meetup.php:174 core/tabs/contents/thirdparty.php:160
+msgid "One-Step"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:131 core/tabs/contents/facebook.php:181
+#: core/tabs/contents/google.php:178 core/tabs/contents/mecapi.php:130
+#: core/tabs/contents/meetup.php:177 core/tabs/contents/thirdparty.php:163
+msgid "Scheduled"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:141 core/tabs/contents/facebook.php:191
+#: core/tabs/contents/google.php:188 core/tabs/contents/mecapi.php:140
+#: core/tabs/contents/meetup.php:187 core/tabs/contents/thirdparty.php:173
+msgid "Once Hourly"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:144 core/tabs/contents/facebook.php:194
+#: core/tabs/contents/google.php:191 core/tabs/contents/mecapi.php:143
+#: core/tabs/contents/meetup.php:190 core/tabs/contents/thirdparty.php:176
+msgid "Twice Daily"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:147 core/tabs/contents/facebook.php:197
+#: core/tabs/contents/google.php:194 core/tabs/contents/mecapi.php:146
+#: core/tabs/contents/meetup.php:193 core/tabs/contents/thirdparty.php:179
+msgid "Once Daily"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:150 core/tabs/contents/facebook.php:200
+#: core/tabs/contents/google.php:197 core/tabs/contents/mecapi.php:149
+#: core/tabs/contents/meetup.php:196 core/tabs/contents/thirdparty.php:182
+msgid "Once Weekly"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:153 core/tabs/contents/facebook.php:203
+#: core/tabs/contents/google.php:200 core/tabs/contents/mecapi.php:152
+#: core/tabs/contents/meetup.php:199 core/tabs/contents/thirdparty.php:185
+msgid "Once a Month"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:181 core/tabs/contents/facebook.php:210
+#: core/tabs/contents/google.php:212 core/tabs/contents/mecapi.php:163
+#: core/tabs/contents/meetup.php:207 core/tabs/contents/thirdparty.php:192
+msgid "Status"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:186 core/tabs/contents/facebook.php:215
+#: core/tabs/contents/google.php:217 core/tabs/contents/mecapi.php:168
+#: core/tabs/contents/meetup.php:212 core/tabs/contents/thirdparty.php:197
+msgid "All"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:189 core/tabs/contents/facebook.php:224
+#: core/tabs/contents/google.php:226 core/tabs/contents/mecapi.php:171
+#: core/tabs/contents/meetup.php:221 core/tabs/contents/thirdparty.php:206
+msgid "Drafted"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:192 core/tabs/contents/mecapi.php:174
+msgid "Live"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:195 core/tabs/contents/mecapi.php:177
+msgid "Started"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:198 core/tabs/contents/mecapi.php:180
+msgid "Ended"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:201 core/tabs/contents/facebook.php:221
+#: core/tabs/contents/google.php:223 core/tabs/contents/mecapi.php:183
+#: core/tabs/contents/meetup.php:218 core/tabs/contents/thirdparty.php:203
+msgid "Canceled"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:210 core/tabs/contents/facebook.php:231
+#: core/tabs/contents/google.php:233 core/tabs/contents/mecapi.php:191
+#: core/tabs/contents/meetup.php:229 core/tabs/contents/thirdparty.php:213
+msgid "Start Date"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:216 core/tabs/contents/facebook.php:237
+#: core/tabs/contents/google.php:239 core/tabs/contents/mecapi.php:197
+#: core/tabs/contents/meetup.php:235 core/tabs/contents/thirdparty.php:219
+msgid "End Date"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:238 core/tabs/contents/facebook.php:252
+#: core/tabs/contents/google.php:262 core/tabs/contents/mecapi.php:217
+#: core/tabs/contents/meetup.php:262
+msgid "No Active Account"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:250 core/tabs/contents/facebook.php:266
+#: core/tabs/contents/google.php:276 core/tabs/contents/mecapi.php:236
+#: core/tabs/contents/meetup.php:279 core/tabs/contents/thirdparty.php:289
+msgid "Get All Events"
+msgstr ""
+
+#: core/tabs/contents/eventbrite.php:262 core/tabs/contents/facebook.php:275
+#: core/tabs/contents/google.php:285 core/tabs/contents/mecapi.php:252
+#: core/tabs/contents/meetup.php:295
+msgid "Get All Events From:"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:77
+msgid "Facebook Event ID"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:80
+msgid "Facebook Page"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:83
+msgid "Facebook Group"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:105
+msgid "Facebook Event IDs"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:116
+msgid ""
+"One event ID per line, ( Eg. Event ID for https://www.facebook.com/"
+"events/123456789/ is \"123456789\" )."
+msgstr ""
+
+#: core/tabs/contents/facebook.php:127
+msgid "Facebook Page ID"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:134
+msgid "Page ID to fetch events from"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:138
+msgid " You can find facebook id at more/about - Page ID."
+msgstr ""
+
+#: core/tabs/contents/facebook.php:149
+msgid "Facebook Group ID"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:156
+msgid "Facebook Group URL / Numeric ID to fetch events from"
+msgstr ""
+
+#: core/tabs/contents/facebook.php:160
+msgid ""
+"Eg.Input value for https://www.facebook.com/groups/123456789123456/\n"
+"https://www.facebook.com/groups/123456789123456/ OR \"123456789123456\""
+msgstr ""
+
+#: core/tabs/contents/facebook.php:218 core/tabs/contents/google.php:220
+#: core/tabs/contents/meetup.php:215 core/tabs/contents/thirdparty.php:200
+msgid "Published"
+msgstr ""
+
+#: core/tabs/contents/google.php:81
+msgid "Group"
+msgstr ""
+
+#: core/tabs/contents/google.php:102 core/tabs/contents/thirdparty.php:97
+msgid "Event IDs"
+msgstr ""
+
+#: core/tabs/contents/google.php:113
+msgid ""
+"One event ID per line, ( Eg. Event ID for https://www.google.com/"
+"events/123456789/ is \"123456789\" )."
+msgstr ""
+
+#: core/tabs/contents/google.php:124 core/tabs/contents/thirdparty.php:114
+msgid "Page ID"
+msgstr ""
+
+#: core/tabs/contents/google.php:131 core/tabs/contents/meetup.php:130
+#: core/tabs/contents/thirdparty.php:121
+msgid "Page username / ID to fetch events from"
+msgstr ""
+
+#: core/tabs/contents/google.php:135
+msgid "Eg. username for https://www.google.com/webnus/ is \"webnus\"."
+msgstr ""
+
+#: core/tabs/contents/google.php:146 core/tabs/contents/thirdparty.php:134
+msgid "Group ID"
+msgstr ""
+
+#: core/tabs/contents/google.php:153 core/tabs/contents/thirdparty.php:141
+msgid "Group URL / Numeric ID to fetch events from"
+msgstr ""
+
+#: core/tabs/contents/google.php:157
+msgid ""
+"Eg.Input value for https://www.google.com/groups/123456789123456/\n"
+"https://www.google.com/groups/123456789123456/ OR \"123456789123456\""
+msgstr ""
+
+#: core/tabs/contents/google.php:245
+msgid "Load More Link"
+msgstr ""
+
+#: core/tabs/contents/google.php:247
+msgid "Link to main event"
+msgstr ""
+
+#: core/tabs/contents/ics.php:13
+msgid "Import .ics File OR Upload from url"
+msgstr ""
+
+#: core/tabs/contents/ics.php:16
+#, php-format
+msgid ""
+"ICS format is supported by many different service providers like Facebook, "
+"Apple Calendar etc. You can import your ICS files into the %s using this "
+"form."
+msgstr ""
+
+#: core/tabs/contents/ics.php:16
+msgid "Modern Events Calendar"
+msgstr ""
+
+#: core/tabs/contents/ics.php:46
+msgid "ICS URL"
+msgstr ""
+
+#: core/tabs/contents/ics.php:57
+msgid "ICS/CSV File"
+msgstr ""
+
+#: core/tabs/contents/ics.php:61
+msgid "ICS Feed"
+msgstr ""
+
+#: core/tabs/contents/ics.php:68
+msgid "Categories"
+msgstr ""
+
+#: core/tabs/contents/ics.php:96
+msgid "Upload & Import"
+msgstr ""
+
+#: core/tabs/contents/mecapi.php:74 core/tabs/contents/thirdparty.php:71
+msgid "All Events"
+msgstr ""
+
+#: core/tabs/contents/mecapi.php:111
+msgid ""
+"One event ID per line, ( Eg. Event ID for https://www.mecsite.com/"
+"events/123456789/ is \"123456789\" )."
+msgstr ""
+
+#: core/tabs/contents/meetup.php:74
+msgid "Meetup Event ID"
+msgstr ""
+
+#: core/tabs/contents/meetup.php:77
+msgid "Meetup Page"
+msgstr ""
+
+#: core/tabs/contents/meetup.php:80
+msgid "Meetup Group"
+msgstr ""
+
+#: core/tabs/contents/meetup.php:101
+msgid "Meetup Event IDs"
+msgstr ""
+
+#: core/tabs/contents/meetup.php:112
+msgid ""
+"One event ID per line, ( Eg. Event ID for https://www.meetup.com/"
+"events/123456789/ is \"123456789\" )."
+msgstr ""
+
+#: core/tabs/contents/meetup.php:123
+msgid "Meetup Page ID"
+msgstr ""
+
+#: core/tabs/contents/meetup.php:134
+msgid "Eg. username for https://www.meetup.com/webnus/ is \"webnus\"."
+msgstr ""
+
+#: core/tabs/contents/meetup.php:145
+msgid "Meetup Group ID"
+msgstr ""
+
+#: core/tabs/contents/meetup.php:152
+msgid "Meetup Group URL / Numeric ID to fetch events from"
+msgstr ""
+
+#: core/tabs/contents/meetup.php:156
+msgid ""
+"Eg.Input value for https://www.meetup.com/groups/123456789123456/\n"
+"https://www.meetup.com/groups/123456789123456/ OR \"123456789123456\""
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:14
+msgid "EventBrite Settings"
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:17
+msgid "Import all of your EventBrite events into MEC."
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:17
+msgid "Get API Token"
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:28
+#: core/tabs/contents/settings/facebook.php:28
+#: core/tabs/contents/settings/google.php:37
+#: core/tabs/contents/settings/mecapi.php:28
+#: core/tabs/contents/settings/meetup.php:41
+msgid "Account Title"
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:37
+#: core/tabs/contents/settings/mecapi.php:46
+msgid "API Token"
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:46
+#: core/tabs/contents/settings/eventbrite.php:53
+#: core/tabs/contents/settings/facebook.php:52
+#: core/tabs/contents/settings/facebook.php:59
+#: core/tabs/contents/settings/google.php:61
+#: core/tabs/contents/settings/google.php:68
+#: core/tabs/contents/settings/mecapi.php:55
+#: core/tabs/contents/settings/mecapi.php:62
+#: core/tabs/contents/settings/meetup.php:65
+#: core/tabs/contents/settings/meetup.php:72
+msgid "Update existing events"
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:60
+#: core/tabs/contents/settings/facebook.php:80
+#: core/tabs/contents/settings/google.php:75
+#: core/tabs/contents/settings/mecapi.php:69
+#: core/tabs/contents/settings/meetup.php:79
+msgid "Account Active"
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:67
+#: core/tabs/contents/settings/facebook.php:87
+#: core/tabs/contents/settings/google.php:82
+msgid "Active"
+msgstr ""
+
+#: core/tabs/contents/settings/eventbrite.php:74
+#: core/tabs/contents/settings/facebook.php:94
+#: core/tabs/contents/settings/google.php:89
+#: core/tabs/contents/settings/mecapi.php:83
+#: core/tabs/contents/settings/meetup.php:93
+msgid "Update Account"
+msgstr ""
+
+#: core/tabs/contents/settings/facebook.php:3
+msgid "Facebook Settings"
+msgstr ""
+
+#: core/tabs/contents/settings/facebook.php:16
+msgid "Add URL: "
+msgstr ""
+
+#: core/tabs/contents/settings/facebook.php:16
+msgid "To Facebook Domain Auth."
+msgstr ""
+
+#: core/tabs/contents/settings/facebook.php:36
+msgid "Facebook App ID"
+msgstr ""
+
+#: core/tabs/contents/settings/facebook.php:44
+msgid "Facebook App secret"
+msgstr ""
+
+#: core/tabs/contents/settings/facebook.php:66
+msgid "Business APP"
+msgstr ""
+
+#: core/tabs/contents/settings/facebook.php:73
+msgid "Business App"
+msgstr ""
+
+#: core/tabs/contents/settings/general.php:4
+msgid "General Settings"
+msgstr ""
+
+#: core/tabs/contents/settings/general.php:13
+msgid "Per Page Table"
+msgstr ""
+
+#: core/tabs/contents/settings/general.php:22
+msgid "Save"
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:3
+msgid "Google API Settings"
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:15
+#: core/tabs/contents/settings/meetup.php:19
+msgid "Note: "
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:16
+msgid ""
+"You have to create a Google OAuth2 Consumer before filling the following "
+"details."
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:17
+#: core/tabs/contents/settings/meetup.php:21
+msgid "Click here"
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:18
+#: core/tabs/contents/settings/meetup.php:21
+msgid "to create new OAuth Consumer"
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:21
+#: core/tabs/contents/settings/meetup.php:24
+msgid "Set the Application Website as"
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:25
+#: core/tabs/contents/settings/meetup.php:28
+msgid "Set Redirect URI:"
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:45
+msgid "Client ID"
+msgstr ""
+
+#: core/tabs/contents/settings/google.php:53
+msgid "Client Secret"
+msgstr ""
+
+#: core/tabs/contents/settings/mecapi.php:20
+msgid "MEC API Settings"
+msgstr ""
+
+#: core/tabs/contents/settings/mecapi.php:23
+msgid "Your MEC API token: "
+msgstr ""
+
+#: core/tabs/contents/settings/mecapi.php:37
+msgid "Site Address"
+msgstr ""
+
+#: core/tabs/contents/settings/mecapi.php:76
+#: core/tabs/contents/settings/meetup.php:86
+msgid "Active the Account"
+msgstr ""
+
+#: core/tabs/contents/settings/meetup.php:4
+msgid "MeetUp Settings"
+msgstr ""
+
+#: core/tabs/contents/settings/meetup.php:16
+msgid "Import all of your MeetUp events into MEC."
+msgstr ""
+
+#: core/tabs/contents/settings/meetup.php:20
+msgid ""
+"You have to create a Meetup OAuth Consumer before filling the following "
+"details."
+msgstr ""
+
+#: core/tabs/contents/settings/meetup.php:49
+msgid "Key"
+msgstr ""
+
+#: core/tabs/contents/settings/meetup.php:57
+msgid "Secret"
+msgstr ""
+
+#: core/tabs/contents/shared.php:4 core/tabs/settings.php:151
+msgid "Success"
+msgstr ""
+
+#: core/tabs/contents/shared.php:7
+msgid "Success Authentication for access to events"
+msgstr ""
+
+#: core/tabs/contents/shared.php:15
+msgid "Error!"
+msgstr ""
+
+#: core/tabs/contents/shared.php:18
+msgid "Authentication Failed."
+msgstr ""
+
+#: core/tabs/facebook.php:111 core/tabs/facebook.php:204
+#: core/tabs/google.php:116 core/tabs/google.php:173 core/tabs/meetup.php:116
+#: core/tabs/meetup.php:161
+msgid "Please Select account."
+msgstr ""
+
+#: core/tabs/facebook.php:121
+msgid "Please insert Facebook App ID and Secret."
+msgstr ""
+
+#: core/tabs/facebook.php:199 core/tabs/google.php:168
+#: core/tabs/meetup.php:156
+msgid "Response Failed, please try again."
+msgstr ""
+
+#: core/tabs/google.php:126
+msgid "Please insert Google Client ID and Secret."
+msgstr ""
+
+#: core/tabs/google.php:518
+msgid "repeating"
+msgstr ""
+
+#: core/tabs/history-table.php:33 core/tabs/history-table.php:185
+#: core/tabs/schedule-table.php:35 core/tabs/settings-table.php:40
+#: core/tabs/settings-table.php:118
+msgid "Delete"
+msgstr ""
+
+#: core/tabs/history-table.php:40
+msgid "Origin"
+msgstr ""
+
+#: core/tabs/history-table.php:53
+#, php-format
+msgid "%d Created"
+msgstr ""
+
+#: core/tabs/history-table.php:56
+#, php-format
+msgid "%d Updated"
+msgstr ""
+
+#: core/tabs/history-table.php:59
+#, php-format
+msgid "%d Skipped"
+msgstr ""
+
+#: core/tabs/history-table.php:62
+msgid "No events are imported."
+msgstr ""
+
+#: core/tabs/history-table.php:173
+msgid "Import"
+msgstr ""
+
+#: core/tabs/history-table.php:174
+msgid "Import Category"
+msgstr ""
+
+#: core/tabs/history-table.php:175
+msgid "Import Date"
+msgstr ""
+
+#: core/tabs/history-table.php:176
+msgid "Import Stats"
+msgstr ""
+
+#: core/tabs/history-table.php:186 core/tabs/schedule-table.php:36
+msgid "Delete All"
+msgstr ""
+
+#: core/tabs/ics.php:336
+msgid "URL is not valid!"
+msgstr ""
+
+#: core/tabs/meetup.php:126 core/tabs/meetup.php:172
+msgid "Please insert Meetup App ID and Secret."
+msgstr ""
+
+#: core/tabs/preview-accounts-table.php:63 core/tabs/preview-table.php:77
+msgid "Download All Events"
+msgstr ""
+
+#: core/tabs/preview-accounts-table.php:83
+msgid "Account Name"
+msgstr ""
+
+#: core/tabs/preview-accounts-table.php:85 core/tabs/schedule-table.php:98
+#: core/tabs/settings-table.php:110
+msgid "Action"
+msgstr ""
+
+#: core/tabs/preview-table.php:57
+msgid "Event Name"
+msgstr ""
+
+#: core/tabs/preview-table.php:58
+msgid "Start Time"
+msgstr ""
+
+#: core/tabs/preview-table.php:59
+msgid "End Time"
+msgstr ""
+
+#: core/tabs/preview-table.php:60
+msgid "Download Status"
+msgstr ""
+
+#: core/tabs/preview-table.php:85
+msgid "Select Category"
+msgstr ""
+
+#: core/tabs/preview-table.php:95
+msgid "Download Selected Events"
+msgstr ""
+
+#: core/tabs/preview-table.php:106
+msgid "Add To Schedule"
+msgstr ""
+
+#: core/tabs/preview-table.php:196
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tabs/schedule-table.php:95
+msgid "Title"
+msgstr ""
+
+#: core/tabs/schedule-table.php:96
+msgid "Import On"
+msgstr ""
+
+#: core/tabs/settings-table.php:41
+msgid "Edit"
+msgstr ""
+
+#: core/tabs/settings-table.php:64
+msgid "View Account"
+msgstr ""
+
+#: core/tabs/settings-table.php:107
+msgid "Account"
+msgstr ""
+
+#: core/tabs/settings-table.php:108
+msgid "Active/Deactive"
+msgstr ""
+
+#: core/tabs/settings.php:39
+msgid "Success Update Account"
+msgstr ""
+
+#: core/tabs/settings.php:47
+msgid "Success Add Account"
+msgstr ""
+
+#: core/tabs/settings.php:113
+msgid "Update General Settings."
+msgstr ""
+
+#: core/tabs/settings.php:124
+msgid "General"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webnus.net/modern-events-calendar/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With this addon, you can connect to Facebook, Google, Meetup, and "
+"Eventbrite and etc… unlimitedly. This makes the import process so easy. "
+"You should authenticate your account with just a few clicks and plan the "
+"import process. Also, with this plugin you can have more third-party * "
+"plugins for importing. You should initiate the process from a WordPress on "
+"which MEC is installed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webnus"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webnus.net"
+msgstr ""

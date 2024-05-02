@@ -1,0 +1,1146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Divi Single Builder for MEC\n"
+"POT-Creation-Date: 2020-10-29 11:27+0330\n"
+"PO-Revision-Date: 2020-09-06 14:55+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mec-divi-single-builder.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/checkLicense/check-activation.php:203
+msgid ""
+"Activation faild. Please check your purchase code or license type."
+"<br><b>Note: Your purchase code should match your licesne type.</b>"
+msgstr ""
+
+#: core/checkLicense/check-activation.php:203
+msgid "Troubleshooting"
+msgstr ""
+
+#: core/controller/admin.php:153 core/controller/admin.php:684
+msgid "Divi Single Builder"
+msgstr ""
+
+#: core/controller/admin.php:319 core/controller/admin.php:389
+msgid "Please select default builder for modal from MEC single page settings."
+msgstr ""
+
+#: core/controller/admin.php:492
+msgid " Style"
+msgstr ""
+
+#: core/controller/admin.php:494
+msgid "Event single view."
+msgstr ""
+
+#: core/controller/admin.php:497 core/controller/admin.php:514
+msgid "Select"
+msgstr ""
+
+#: core/controller/admin.php:511
+msgid "Event modal view."
+msgstr ""
+
+#: core/controller/admin.php:530
+msgid "Settings"
+msgstr ""
+
+#: core/controller/admin.php:532
+msgid "Build new Single Design"
+msgstr ""
+
+#: core/controller/admin.php:620 core/controller/admin.php:637
+msgid "Please Create New Design for Single Event Page"
+msgstr ""
+
+#: core/controller/admin.php:621 core/controller/admin.php:638
+msgid "Create new"
+msgstr ""
+
+#: core/controller/admin.php:624
+msgid "Default Builder for Single Event"
+msgstr ""
+
+#: core/controller/admin.php:641
+msgid "Default Builder for Modal View"
+msgstr ""
+
+#: core/controller/admin.php:684
+msgid "Single Divi Builder"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:90
+msgid "Event Attendees"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:95
+#: core/divi/includes/modules/EventBooking/EventBooking.php:23
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:23
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:23
+#: core/divi/includes/modules/EventCategory/EventCategory.php:23
+#: core/divi/includes/modules/EventContent/EventContent.php:33
+#: core/divi/includes/modules/EventCost/EventCost.php:24
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:24
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:23
+#: core/divi/includes/modules/EventDate/EventDate.php:23
+#: core/divi/includes/modules/EventExport/EventExport.php:22
+#: core/divi/includes/modules/EventFeaturedImage/EventFeaturedImage.php:23
+#: core/divi/includes/modules/EventGoogleMap/EventGoogleMap.php:23
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:23
+#: core/divi/includes/modules/EventLabel/EventLabel.php:22
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:22
+#: core/divi/includes/modules/EventLocation/EventLocation.php:23
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:22
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:22
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:23
+#: core/divi/includes/modules/EventQR/EventQR.php:22
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:23
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:22
+#: core/divi/includes/modules/EventSocial/EventSocial.php:22
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:22
+#: core/divi/includes/modules/EventTags/EventTags.php:22
+#: core/divi/includes/modules/EventTime/EventTime.php:23
+#: core/divi/includes/modules/EventTitle/EventTitle.php:24
+#: core/divi/includes/modules/EventWeather/EventWeather.php:23
+msgid "Main Element"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:99
+msgid "Images"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:103
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:186
+#: core/divi/includes/modules/EventBooking/EventBooking.php:27
+#: core/divi/includes/modules/EventBooking/EventBooking.php:118
+#: core/divi/includes/modules/EventCategory/EventCategory.php:27
+#: core/divi/includes/modules/EventCategory/EventCategory.php:102
+#: core/divi/includes/modules/EventCost/EventCost.php:28
+#: core/divi/includes/modules/EventCost/EventCost.php:108
+#: core/divi/includes/modules/EventDate/EventDate.php:27
+#: core/divi/includes/modules/EventDate/EventDate.php:63
+#: core/divi/includes/modules/EventFeaturedImage/EventFeaturedImage.php:27
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:27
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:111
+#: core/divi/includes/modules/EventLabel/EventLabel.php:26
+#: core/divi/includes/modules/EventLabel/EventLabel.php:93
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:26
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:97
+#: core/divi/includes/modules/EventLocation/EventLocation.php:27
+#: core/divi/includes/modules/EventLocation/EventLocation.php:103
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:26
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:97
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:26
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:105
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:27
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:102
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:26
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:109
+#: core/divi/includes/modules/EventSocial/EventSocial.php:26
+#: core/divi/includes/modules/EventSocial/EventSocial.php:89
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:26
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:97
+#: core/divi/includes/modules/EventTime/EventTime.php:27
+#: core/divi/includes/modules/EventTime/EventTime.php:116
+#: core/divi/includes/modules/EventTitle/EventTitle.php:28
+#: core/divi/includes/modules/EventTitle/EventTitle.php:86
+#: core/divi/includes/modules/EventWeather/EventWeather.php:27
+#: core/divi/includes/modules/EventWeather/EventWeather.php:103
+msgid "Title"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:107
+msgid "Ticket Number"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:111
+msgid "Ticket Typo"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:115
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:210
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:31
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:105
+#: core/divi/includes/modules/EventCategory/EventCategory.php:125
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:30
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:107
+msgid "Link"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:119
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:218
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:35
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:112
+#: core/divi/includes/modules/EventCategory/EventCategory.php:132
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:34
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:117
+msgid "Link Hover"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:123
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:226
+msgid "Profile Name"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:127
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:234
+msgid "Profile Tickets"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:174
+#: core/divi/includes/modules/EventBooking/EventBooking.php:106
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:86
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:74
+#: core/divi/includes/modules/EventCategory/EventCategory.php:90
+#: core/divi/includes/modules/EventContent/EventContent.php:88
+#: core/divi/includes/modules/EventCost/EventCost.php:96
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:85
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:94
+#: core/divi/includes/modules/EventDate/EventDate.php:51
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:99
+#: core/divi/includes/modules/EventLabel/EventLabel.php:81
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:85
+#: core/divi/includes/modules/EventLocation/EventLocation.php:91
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:85
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:93
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:90
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:97
+#: core/divi/includes/modules/EventSocial/EventSocial.php:77
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:85
+#: core/divi/includes/modules/EventTags/EventTags.php:73
+#: core/divi/includes/modules/EventTime/EventTime.php:104
+#: core/divi/includes/modules/EventTitle/EventTitle.php:74
+#: core/divi/includes/modules/EventWeather/EventWeather.php:91
+msgid "Wrapper"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:194
+msgid "Tickets Number"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:202
+msgid "Tickets"
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:293
+msgid ""
+"This widget is displayed if buddypress is set. In order for the widget in "
+"this page to be displayed correctly, please set buddypress for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventAttendees/EventAttendees.php:295
+msgid "How to set buddypress"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:18
+msgid "Event Booking"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:31
+#: core/divi/includes/modules/EventBooking/EventBooking.php:125
+msgid "Ticket Name"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:35
+msgid "price"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:39
+#: core/divi/includes/modules/EventBooking/EventBooking.php:141
+msgid "Description"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:43
+#: core/divi/includes/modules/EventBooking/EventBooking.php:174
+msgid "Submit Button"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:47
+#: core/divi/includes/modules/EventBooking/EventBooking.php:182
+msgid "Back Button"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:51
+#: core/divi/includes/modules/EventBooking/EventBooking.php:149
+msgid "Total Price"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:55
+#: core/divi/includes/modules/EventBooking/EventBooking.php:156
+msgid "Amount Label"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:59
+msgid "Amount Price"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:133
+#: core/divi/includes/modules/EventCost/EventCost.php:32
+#: core/divi/includes/modules/EventCost/EventCost.php:118
+msgid "Price"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:164
+msgid "Amount"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:241
+msgid "Sold out!"
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:265
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:171
+msgid ""
+"This widget is displayed if label is set. In order for the widget in this "
+"page to be displayed correctly, please set QR code module for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventBooking/EventBooking.php:267
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:173
+#: core/divi/includes/modules/EventQR/EventQR.php:117
+msgid "How to set QR code module"
+msgstr ""
+
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:18
+msgid "Event Breadcrumbs"
+msgstr ""
+
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:27
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:98
+msgid "Current Page"
+msgstr ""
+
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:39
+#: core/divi/includes/modules/EventCategory/EventCategory.php:31
+#: core/divi/includes/modules/EventCategory/EventCategory.php:109
+#: core/divi/includes/modules/EventCost/EventCost.php:36
+#: core/divi/includes/modules/EventCost/EventCost.php:128
+#: core/divi/includes/modules/EventDate/EventDate.php:35
+#: core/divi/includes/modules/EventDate/EventDate.php:83
+#: core/divi/includes/modules/EventLabel/EventLabel.php:30
+#: core/divi/includes/modules/EventLabel/EventLabel.php:100
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:118
+#: core/divi/includes/modules/EventLocation/EventLocation.php:39
+#: core/divi/includes/modules/EventLocation/EventLocation.php:124
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:38
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:127
+#: core/divi/includes/modules/EventSocial/EventSocial.php:30
+#: core/divi/includes/modules/EventSocial/EventSocial.php:99
+#: core/divi/includes/modules/EventTime/EventTime.php:39
+#: core/divi/includes/modules/EventTime/EventTime.php:146
+#: core/divi/includes/modules/EventWeather/EventWeather.php:39
+#: core/divi/includes/modules/EventWeather/EventWeather.php:124
+msgid "Icon"
+msgstr ""
+
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:119
+msgid "Arrow Icon"
+msgstr ""
+
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:172
+msgid ""
+"This widget is displayed if breadcrumbs is set. In order for the widget in "
+"this page to be displayed correctly, please set breadcrumbs for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventBreadcrumbs/EventBreadcrumbs.php:174
+msgid "How to set breadcrumbs"
+msgstr ""
+
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:18
+msgid "Event Cancellation"
+msgstr ""
+
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:27
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:86
+msgid "Cancellation Reason"
+msgstr ""
+
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:123
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:149
+#: core/divi/includes/modules/EventCancellation/EventCancellation.php:160
+msgid ""
+"This widget is displayed if cancellation reason is set. In order for the "
+"widget in this page to be displayed correctly, please set cancellation "
+"reason for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventCategory/EventCategory.php:18
+msgid "Event Category"
+msgstr ""
+
+#: core/divi/includes/modules/EventCategory/EventCategory.php:35
+#: core/divi/includes/modules/EventCategory/EventCategory.php:117
+msgid "Category Icon"
+msgstr ""
+
+#: core/divi/includes/modules/EventCategory/EventCategory.php:39
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:39
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:120
+msgid "Link Value"
+msgstr ""
+
+#: core/divi/includes/modules/EventCategory/EventCategory.php:43
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:43
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:127
+msgid "Link Hover Value"
+msgstr ""
+
+#: core/divi/includes/modules/EventCategory/EventCategory.php:191
+msgid "Category"
+msgstr ""
+
+#: core/divi/includes/modules/EventCategory/EventCategory.php:204
+msgid ""
+"This widget is displayed if category is set. In order for the widget in this "
+"page to be displayed correctly, please set category for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventCategory/EventCategory.php:206
+msgid "How to set category"
+msgstr ""
+
+#: core/divi/includes/modules/EventContent/EventContent.php:28
+msgid "Event Content"
+msgstr ""
+
+#: core/divi/includes/modules/EventContent/EventContent.php:37
+#: core/divi/includes/modules/EventContent/EventContent.php:91
+msgid "Content"
+msgstr ""
+
+#: core/divi/includes/modules/EventCost/EventCost.php:19
+msgid "Event Cost"
+msgstr ""
+
+#: core/divi/includes/modules/EventCost/EventCost.php:73
+#: core/divi/includes/modules/EventCost/EventCost.php:177
+msgid "Cost"
+msgstr ""
+
+#: core/divi/includes/modules/EventCost/EventCost.php:186
+msgid ""
+"This widget is displayed if cost is set. In order for the widget in this "
+"page to be displayed correctly, please set cost for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventCost/EventCost.php:188
+msgid "How to set cost"
+msgstr ""
+
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:19
+msgid "Event Countdown"
+msgstr ""
+
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:28
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:98
+msgid "Number(s)"
+msgstr ""
+
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:32
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:109
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:106
+msgid "Label"
+msgstr ""
+
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:155
+msgid ""
+"This widget is displayed if countdown is set. In order for the widget in "
+"this page to be displayed correctly, please set countdown for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventCountDown/EventCountDown.php:157
+msgid "How to set countdown"
+msgstr ""
+
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:18
+msgid "Event Custom Data"
+msgstr ""
+
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:27
+msgid "Each Item"
+msgstr ""
+
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:31
+#: core/divi/includes/modules/EventLabel/EventLabel.php:34
+#: core/divi/includes/modules/EventLabel/EventLabel.php:107
+#: core/divi/includes/modules/EventLabel/EventLabel.php:166
+msgid "Labels"
+msgstr ""
+
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:35
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:113
+msgid "Value"
+msgstr ""
+
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:47
+msgid "Last Item"
+msgstr ""
+
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:186
+msgid ""
+"This widget is displayed if event data is set. In order for the widget in "
+"this page to be displayed correctly, please set event data for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventCustomData/EventCustomData.php:188
+msgid "How to set Custom Fields"
+msgstr ""
+
+#: core/divi/includes/modules/EventDate/EventDate.php:18
+msgid "Event Date"
+msgstr ""
+
+#: core/divi/includes/modules/EventDate/EventDate.php:31
+#: core/divi/includes/modules/EventDate/EventDate.php:73
+#: core/divi/includes/modules/EventDate/EventDate.php:179
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:42
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:123
+msgid "Date"
+msgstr ""
+
+#: core/divi/includes/modules/EventExport/EventExport.php:17
+msgid "Event Export"
+msgstr ""
+
+#: core/divi/includes/modules/EventExport/EventExport.php:26
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:42
+msgid "Button"
+msgstr ""
+
+#: core/divi/includes/modules/EventExport/EventExport.php:30
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:46
+msgid "Button Hover"
+msgstr ""
+
+#: core/divi/includes/modules/EventExport/EventExport.php:78
+msgid "Export Buttons"
+msgstr ""
+
+#: core/divi/includes/modules/EventExport/EventExport.php:131
+msgid ""
+"This widget is displayed if export module is set. In order for the widget in "
+"this page to be displayed correctly, please set export module for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventExport/EventExport.php:133
+msgid "How to set export module"
+msgstr ""
+
+#: core/divi/includes/modules/EventFeaturedImage/EventFeaturedImage.php:18
+msgid "Event Featured Image"
+msgstr ""
+
+#: core/divi/includes/modules/EventGoogleMap/EventGoogleMap.php:18
+msgid "Event Google Map"
+msgstr ""
+
+#: core/divi/includes/modules/EventGoogleMap/EventGoogleMap.php:118
+msgid ""
+"This option is disabled. In order for the widget in this page to be "
+"displayed correctly, please turn on  Google Maps Options and set the API for "
+"it there."
+msgstr ""
+
+#: core/divi/includes/modules/EventGoogleMap/EventGoogleMap.php:120
+#: core/divi/includes/modules/EventGoogleMap/EventGoogleMap.php:129
+msgid "How to set Google Map"
+msgstr ""
+
+#: core/divi/includes/modules/EventGoogleMap/EventGoogleMap.php:127
+msgid ""
+"This widget is displayed if Google Map is set. In order for the widget in "
+"this page to be displayed correctly, please set Google Map for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:18
+msgid "Event Hourly Schedule"
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:31
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:121
+msgid "Days"
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:35
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:131
+msgid "Schedule Time"
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:39
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:142
+msgid "Schedule Title"
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:43
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:153
+msgid "Schedule Description"
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:47
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:164
+msgid "Schedule Speaker Title"
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:51
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:175
+msgid "Schedule Speaker Name"
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:243
+msgid ""
+"This widget is displayed if Hourly Schedule is set. In order for the widget "
+"in this page to be displayed correctly, please set Hourly Schedule for your "
+"last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventHourlySchedule/EventHourlySchedule.php:245
+msgid "How to set Hourly Schedule"
+msgstr ""
+
+#: core/divi/includes/modules/EventLabel/EventLabel.php:17
+msgid "Event Label"
+msgstr ""
+
+#: core/divi/includes/modules/EventLabel/EventLabel.php:177
+msgid ""
+"This widget is displayed if label is set. In order for the widget in this "
+"page to be displayed correctly, please set label for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventLabel/EventLabel.php:179
+msgid "How to set label"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:17
+msgid "Event Local Time"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:30
+msgid "icon"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:34
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:104
+msgid "Details Label"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:38
+#: core/divi/includes/modules/EventLocalTime/EventLocalTime.php:111
+msgid "Details Value"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocation/EventLocation.php:18
+msgid "Event Location"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocation/EventLocation.php:31
+#: core/divi/includes/modules/EventLocation/EventLocation.php:110
+#: core/divi/includes/modules/EventWeather/EventWeather.php:110
+msgid "Location Name"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocation/EventLocation.php:35
+#: core/divi/includes/modules/EventLocation/EventLocation.php:117
+#: core/divi/includes/modules/EventWeather/EventWeather.php:35
+#: core/divi/includes/modules/EventWeather/EventWeather.php:117
+msgid "Address"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocation/EventLocation.php:43
+#: core/divi/includes/modules/EventWeather/EventWeather.php:43
+msgid "Location Image"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocation/EventLocation.php:189
+msgid "Location"
+msgstr ""
+
+#: core/divi/includes/modules/EventLocation/EventLocation.php:201
+msgid ""
+"This widget is displayed if location is set. In order for the widget in this "
+"page to be displayed correctly, please set location for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventLocation/EventLocation.php:203
+msgid "How to set location"
+msgstr ""
+
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:17
+msgid "Event More Info"
+msgstr ""
+
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:186
+msgid "More Info"
+msgstr ""
+
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:187
+msgid "Read More"
+msgstr ""
+
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:194
+msgid ""
+"This widget is displayed if read more is set. In order for the widget in "
+"this page to be displayed correctly, please set read more for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventMoreInfo/EventMoreInfo.php:196
+msgid "How to set read more"
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:17
+msgid "Event Next Previous"
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:30
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:112
+msgid "Details Icon"
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:34
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:38
+msgid "Details Title"
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:119
+msgid "Detail Title"
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:126
+msgid "Detail Content"
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:135
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:27
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:75
+msgid "Register Button"
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:188
+msgid ""
+"This widget is displayed if next events module is set. In order for the "
+"widget in this page to be displayed correctly, please set next events module "
+"for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventNextPrevious/EventNextPrevious.php:190
+msgid "How to set next events module"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:18
+msgid "Event Organizer"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:31
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:109
+msgid "Organizer Label"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:35
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:116
+msgid "Organizer Detail"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:39
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:123
+msgid "Icons"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:43
+msgid "Organizer Image"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:192
+msgid "Organizer"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:202
+msgid "Phone"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:209
+msgid "Email"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:216
+msgid "Website"
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:239
+msgid ""
+"This widget is displayed if organizer is set. In order for the widget in "
+"this page to be displayed correctly, please set organizer for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventOrganizer/EventOrganizer.php:241
+msgid "How to set organizer"
+msgstr ""
+
+#: core/divi/includes/modules/EventQR/EventQR.php:17
+msgid "Event QR Code"
+msgstr ""
+
+#: core/divi/includes/modules/EventQR/EventQR.php:115
+msgid ""
+"This widget is displayed if QR Code is set. In order for the widget in this "
+"page to be displayed correctly, please set QR code module for your last "
+"event."
+msgstr ""
+
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:18
+msgid "Event Register Button"
+msgstr ""
+
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:138
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:149
+msgid "REGISTER"
+msgstr ""
+
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:157
+msgid ""
+"This widget is displayed if register button is set. In order for the widget "
+"in this page to be displayed correctly, please set register button for your "
+"last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventRegisterButton/EventRegisterButton.php:159
+msgid "How to set register button"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:17
+msgid "Event Related Events"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:30
+msgid "shape"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:34
+msgid "Item Content Wrapper"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:38
+msgid "Image"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:46
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:130
+msgid "Event Link"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:50
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:137
+msgid "Event Link Hover"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:116
+msgid "Item Wrapper"
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:196
+msgid ""
+"This widget is displayed if related events is set. In order for the widget "
+"in this page to be displayed correctly, please set Related Event for your "
+"last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventRelatedEvents/EventRelatedEvents.php:198
+msgid "How to set related events"
+msgstr ""
+
+#: core/divi/includes/modules/EventSocial/EventSocial.php:17
+msgid "Event Social"
+msgstr ""
+
+#: core/divi/includes/modules/EventSocial/EventSocial.php:161
+msgid "Share this event"
+msgstr ""
+
+#: core/divi/includes/modules/EventSocial/EventSocial.php:180
+msgid ""
+"This widget is displayed if social networks is set. In order for the widget "
+"in this page to be displayed correctly, please set label for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventSocial/EventSocial.php:182
+msgid "How to set social networks"
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:17
+msgid "Event Speaker"
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:30
+msgid "Name"
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:34
+msgid "Job"
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:38
+msgid "Avatar"
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:104
+msgid "Speaker Name"
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:111
+msgid "Speaker Job"
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:170
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:182
+msgid ""
+"This widget is displayed if speaker is set. In order for the widget in this "
+"page to be displayed correctly, please set speaker for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:172
+#: core/divi/includes/modules/EventSpeaker/EventSpeaker.php:184
+msgid "How to set speaker"
+msgstr ""
+
+#: core/divi/includes/modules/EventTags/EventTags.php:17
+msgid "Event Tags"
+msgstr ""
+
+#: core/divi/includes/modules/EventTags/EventTags.php:83
+msgid "MEC Location"
+msgstr ""
+
+#: core/divi/includes/modules/EventTags/EventTags.php:127
+msgid ""
+"This widget is displayed if tags is set. In order for the widget in this "
+"page to be displayed correctly, please set tags for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventTags/EventTags.php:129
+msgid "How to set tags"
+msgstr ""
+
+#: core/divi/includes/modules/EventTags/EventTags.php:134
+msgid "Tags: "
+msgstr ""
+
+#: core/divi/includes/modules/EventTime/EventTime.php:18
+msgid "Event Time"
+msgstr ""
+
+#: core/divi/includes/modules/EventTime/EventTime.php:31
+#: core/divi/includes/modules/EventTime/EventTime.php:84
+#: core/divi/includes/modules/EventTime/EventTime.php:126
+#: core/divi/includes/modules/EventTime/EventTime.php:193
+msgid "Time"
+msgstr ""
+
+#: core/divi/includes/modules/EventTime/EventTime.php:35
+#: core/divi/includes/modules/EventTime/EventTime.php:136
+msgid "Time Comment"
+msgstr ""
+
+#: core/divi/includes/modules/EventTime/EventTime.php:75
+#: core/divi/includes/modules/EventTime/EventTime.php:199
+msgid "All day"
+msgstr ""
+
+#: core/divi/includes/modules/EventTitle/EventTitle.php:19
+msgid "Event Title"
+msgstr ""
+
+#: core/divi/includes/modules/EventWeather/EventWeather.php:18
+msgid "Event Weather"
+msgstr ""
+
+#: core/divi/includes/modules/EventWeather/EventWeather.php:31
+msgid "Weather Name"
+msgstr ""
+
+#: core/divi/includes/modules/EventWeather/EventWeather.php:185
+msgid ""
+"This widget is displayed if weather is set. In order for the widget in this "
+"page to be displayed correctly, please set location for your last event."
+msgstr ""
+
+#: core/divi/includes/modules/EventWeather/EventWeather.php:187
+msgid "How to set weather"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:95
+msgctxt "Post Type General Name"
+msgid "Divi Single Builders"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:96
+msgctxt "Post Type Singular Name"
+msgid "Divi Single Builder"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:97 core/postTypes/mec-esdb.php:111
+msgid "Divi Single Builders"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:98
+msgid "Parent Divi Single Builder"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:99
+msgid "All Divi Single Builders"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:100
+msgid "View Divi Single Builder"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:101
+msgid "Add New Divi Single Builder"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:102
+msgid "Add New"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:103
+msgid "Edit Divi Single Builder"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:104
+msgid "Update Divi Single Builder"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:105
+msgid "Search Divi Single Builder"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:106
+msgid "Not Found"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:107
+msgid "Not found in Trash"
+msgstr ""
+
+#: core/postTypes/mec-esdb.php:112
+msgid "Divi Single Builder news and reviews"
+msgstr ""
+
+#: mec-divi-single-builder.php:154
+msgid ""
+" MEC Divi Single Builder is not working because you need to install the "
+"Modern Events Calendar Lite plugin"
+msgstr ""
+
+#: mec-divi-single-builder.php:155
+msgid "Install Modern Events Calendar Lite Now"
+msgstr ""
+
+#: mec-divi-single-builder.php:160
+msgid ""
+"MEC Divi Single Builder is not working because you need to install latest "
+"version of Modern Events Calendar plugin"
+msgstr ""
+
+#: mec-divi-single-builder.php:161 mec-divi-single-builder.php:218
+#: mec-divi-single-builder.php:227
+msgid "Minimum version required"
+msgstr ""
+
+#: mec-divi-single-builder.php:162 mec-divi-single-builder.php:219
+msgid "Update Modern Events Calendar Now"
+msgstr ""
+
+#: mec-divi-single-builder.php:166
+msgid ""
+" is not working because you need to activate the Modern Events Calendar Lite "
+"plugin."
+msgstr ""
+
+#: mec-divi-single-builder.php:167 mec-divi-single-builder.php:263
+msgid "Activate Modern Events Calendar Lite Now"
+msgstr ""
+
+#: mec-divi-single-builder.php:217
+msgid ""
+"This Addon is not working because you need to install latest version of "
+"Modern Events Calendar plugin"
+msgstr ""
+
+#: mec-divi-single-builder.php:226
+msgid ""
+"This Addon is not working because you need to install latest version of "
+"Modern Events Calendar Lite plugin"
+msgstr ""
+
+#: mec-divi-single-builder.php:228
+msgid "Update Modern Events Calendar Lite Now"
+msgstr ""
+
+#: mec-divi-single-builder.php:255 mec-divi-single-builder.php:262
+msgid ""
+"MEC Divi Single Builder is not working because you need to activate the "
+"Modern Events Calendar plugin."
+msgstr ""
+
+#: mec-divi-single-builder.php:256
+msgid "Activate Modern Events Calendar Now"
+msgstr ""
+
+#: mec-divi-single-builder.php:269
+msgid ""
+"MEC Divi Single Builder is not working because you need to install the "
+"Modern Events Calendar plugin"
+msgstr ""
+
+#: mec-divi-single-builder.php:270
+msgid "Install Modern Events Calendar Now"
+msgstr ""
+
+#: templates/single-mec_esdb.php:24
+msgid ""
+"This is not the right place to check. Please open the single event page for "
+"seeing the result."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Divi Single Builder for MEC"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://webnus.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Use this Add-on to build your single event page layout in Divi Page Builder. "
+"It allows you to use many different type of fields and rearrange them by "
+"drag and drop and modify their styles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webnus"
+msgstr ""

@@ -1,0 +1,15 @@
+v 1.0.3 - 29 October - 2020
+- Fixed: Default styles on Divi Builder Plugins
+
+v 1.0.2 - 18 October - 2020
+- Added: Available for both Pro and Lite versions
+
+v 1.0.1 - 12 October - 2020
+- Fixed: Width size in single events
+- Fixed: Title shortcode
+- Fixed: A fatal error regarding installation
+- Fixed: Cost shortcode style
+- Fixed: Some minor issues
+
+v 1.0.0 - 6 September 2020
+- Initial Release.

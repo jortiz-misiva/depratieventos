@@ -1,0 +1,192 @@
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  -webkit-transition: .4s;
+  transition: .4s;  
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+  height: 26px;
+  width: 54px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 24px;
+  width: 24px;
+  left: 1px;
+  bottom: 1px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:after {
+  -webkit-transition: .4s;
+  transition: .4s;  
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+  -webkit-transition: .4s;
+  transition: .4s;  
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+input:checked + .slider {
+  display: block;
+  cursor: pointer;
+  outline: 0;
+  padding: 2px;
+  width: 50px;
+  height: 22px;
+  background-color: #ddd;
+  border-radius: 60px
+}
+
+input:checked + .slider:after,
+input:checked + .slider:before {
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  bottom: 1px;
+  content: ""
+}
+
+input:checked + .slider:before {
+  right: 1px;
+  background-color: #f1f1f1;
+  border-radius: 60px;
+  transition: background .4s
+}
+
+input:checked + .slider:after {
+  width: 24px;
+  background-color: #fff;
+  border-radius: 100%;
+  box-shadow: 0 2px 3px rgba(0,0,0,.1);
+  transition: margin .4s
+}
+
+input:checked + .slider, input:checked + .slider:before {
+  background-color: #008aff;
+  background: linear-gradient(95deg, #4dacfd 0, #0d90ff 50%, #008aff 100%);
+  box-shadow: 0 3px 11px -7px #008aff;
+}
+
+input:checked + .slider:after {
+  margin-left: 28px
+}
+
+input:checked + .slider {
+  box-shadow: 0 3px 11px -7px #008aff;
+}
+
+input:checked + .slider:before {
+  background-color: #008aff;
+  background: linear-gradient(95deg, #4dacfd 0, #0d90ff 50%, #008aff 100%);
+}
+
+input:checked + .slider:after {
+  margin-left: 28px
+}
+
+.mec-form-row input[type=checkbox] {
+  margin-right: 7px;
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.sync-progress {
+  pointer-events: none;
+  opacity: 0.5;
+  background: #CCC;
+}
+
+.mec-sync-options-form .mec-container {
+  padding: 25px 40px 40px;
+  max-width: 1180px;
+  margin: 10px auto;
+  box-shadow: 0 3px 10px -4px rgba(0, 0, 0, .1)
+}
+
+.m-e-calendar_page_MEC-sync .switch {
+  margin-top:0;
+}
+
+.mec-row-sync {
+  margin-top: 30px;
+}
+
+#sync-progress.mec-row-sync {
+  display: block;
+}
+
+.sync-box {
+  background: #f8f8f8;
+  padding: 12px 15px 12px 15px;  
+  width: 100%;
+}
+
+.mec-form-row.mec-row-sync.mec-sync-row-1 {
+  position: relative;
+  padding-top: 96px;
+}
+
+.mec-form-row.mec-row-sync.mec-sync-row-1 .sync-box {
+  position: absolute;
+  top: 0;
+}
+
+.mec-form-row input[type=checkbox].sync-req {
+  margin-right: 9px;
+}
+
+@media(max-width: 480px) {
+  .sync-box {
+      width: -webkit-fill-available;
+  }
+
+  .mec-form-row.mec-row-sync.mec-sync-row-1 {
+      padding-top: 150px;
+  }
+
+  .wns-be-container .dpr-btn.dpr-save-btn {
+      margin-bottom: 20px;
+  }
+}

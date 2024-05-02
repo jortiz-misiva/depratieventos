@@ -1,0 +1,349 @@
+# Copyright (C) 2022 Webnus
+# This file is distributed under the same license as the MEC Advanced Location plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MEC Advanced Location 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mec-advanced-location\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-26T14:18:55+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: mec-advanced-location\n"
+
+#. Plugin Name of the plugin
+msgid "MEC Advanced Location"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://webnus.net/modern-events-calendar/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This addon gives you an exclusive page for every Location and you can have a list of locations wherever you like using a shortcode. You can also display locations in a slider format."
+msgstr ""
+
+#. Author of the plugin
+msgid "Webnus"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://webnus.net"
+msgstr ""
+
+#: core/checkLicense/update-activation.php:272
+msgid "Activation failed. Please check your purchase code or license type.<br><b>Note: Your purchase code should match your licesne type.</b>"
+msgstr ""
+
+#: core/checkLicense/update-activation.php:272
+msgid "Troubleshooting"
+msgstr ""
+
+#: core/lib/backend.ui.php:77
+#: core/lib/backend.ui.php:92
+msgid "Featured"
+msgstr ""
+
+#: core/lib/backend.ui.php:119
+msgid "Advanced %s"
+msgstr ""
+
+#: core/lib/backend.ui.php:119
+#: core/lib/settings.ui.php:5
+#: core/lib/widget.php:15
+#: core/skins/grid/render.php:66
+#: core/skins/list/render.php:64
+#: core/skins/single.php:57
+#: core/skins/slider.php:63
+msgid "Location"
+msgstr ""
+
+#: core/lib/frontend.ui.php:94
+msgid "<h3>Modern Event Calendar Advanced Location Single Page</h3>"
+msgstr ""
+
+#: core/lib/settings.ui.php:25
+#: core/lib/settings.ui.php:212
+msgid "Priority Website on input"
+msgstr ""
+
+#: core/lib/settings.ui.php:26
+#: core/lib/settings.ui.php:210
+msgid "Force Website Link"
+msgstr ""
+
+#: core/lib/settings.ui.php:27
+#: core/lib/settings.ui.php:211
+msgid "Force Single Page"
+msgstr ""
+
+#: core/lib/settings.ui.php:33
+msgid "Advanced %s Settings"
+msgstr ""
+
+#: core/lib/settings.ui.php:35
+#: core/lib/settings.ui.php:46
+msgid "Single Page"
+msgstr ""
+
+#: core/lib/settings.ui.php:48
+msgid "For show the Location details after clicking the \"View Details\" button. <br> ShortCode on page"
+msgstr ""
+
+#: core/lib/settings.ui.php:58
+msgid "%s Default Settings"
+msgstr ""
+
+#: core/lib/settings.ui.php:61
+#: core/lib/settings.ui.php:72
+msgid "Skin"
+msgstr ""
+
+#: core/lib/settings.ui.php:74
+msgid "Skin for showing the %s skin."
+msgstr ""
+
+#: core/lib/settings.ui.php:83
+#: core/lib/settings.ui.php:94
+msgid "%s Event Skin"
+msgstr ""
+
+#: core/lib/settings.ui.php:96
+msgid "Event skin for showing the %s skin."
+msgstr ""
+
+#: core/lib/settings.ui.php:105
+#: core/lib/settings.ui.php:110
+msgid "Event Limit"
+msgstr ""
+
+#: core/lib/settings.ui.php:107
+#: core/lib/settings.ui.php:123
+msgid "Default"
+msgstr ""
+
+#: core/lib/settings.ui.php:112
+msgid "Show evented for %s on single page. Default: %s"
+msgstr ""
+
+#: core/lib/settings.ui.php:121
+#: core/lib/settings.ui.php:126
+msgid "%s Limit"
+msgstr ""
+
+#: core/lib/settings.ui.php:128
+msgid "Show Rows for %s on single page. Default: %s"
+msgstr ""
+
+#: core/lib/settings.ui.php:137
+#: core/lib/settings.ui.php:142
+msgid "Event Cols"
+msgstr ""
+
+#: core/lib/settings.ui.php:144
+msgid "Show evented for %s on single page. Default: 4"
+msgstr ""
+
+#: core/lib/settings.ui.php:153
+#: core/lib/settings.ui.php:162
+#: core/skins/grid/tpl.php:49
+#: core/skins/list/tpl.php:50
+msgid "Load More"
+msgstr ""
+
+#: core/lib/settings.ui.php:158
+msgid "Load More Button on event list bottom."
+msgstr ""
+
+#: core/lib/settings.ui.php:164
+msgid "Show evented for %s on single page. Default: no"
+msgstr ""
+
+#: core/lib/settings.ui.php:173
+msgid "Show Event List"
+msgstr ""
+
+#: core/lib/settings.ui.php:178
+msgid "Show Event list on single page."
+msgstr ""
+
+#: core/lib/settings.ui.php:184
+msgid "Show Map"
+msgstr ""
+
+#: core/lib/settings.ui.php:189
+msgid "Show Map on single page."
+msgstr ""
+
+#: core/lib/settings.ui.php:195
+msgid "Details Link"
+msgstr ""
+
+#: core/lib/settings.ui.php:206
+msgid "Details View Link"
+msgstr ""
+
+#: core/lib/settings.ui.php:210
+msgid "Force Loaded from Website Filed."
+msgstr ""
+
+#: core/lib/settings.ui.php:211
+msgid "Force Loaded from Auto Single page."
+msgstr ""
+
+#: core/lib/settings.ui.php:212
+msgid "On input website field loaded from website field, then loaded on single page."
+msgstr ""
+
+#: core/lib/settings.ui.php:223
+msgid "Details Link Target"
+msgstr ""
+
+#: core/lib/settings.ui.php:228
+msgid "New Window"
+msgstr ""
+
+#: core/lib/settings.ui.php:229
+msgid "Current Window"
+msgstr ""
+
+#: core/lib/settings.ui.php:244
+msgid "Shortcode Guideline"
+msgstr ""
+
+#: core/lib/settings.ui.php:247
+msgid "Single Pages"
+msgstr ""
+
+#: core/lib/settings.ui.php:254
+msgid "List Pages"
+msgstr ""
+
+#: core/lib/settings.ui.php:261
+msgid "Featured Pages"
+msgstr ""
+
+#: core/lib/settings.ui.php:269
+msgid "Exclude-List:"
+msgstr ""
+
+#: core/lib/settings.ui.php:269
+msgid "website, address, tel, email"
+msgstr ""
+
+#: core/lib/settings.ui.php:270
+msgid "Note:"
+msgstr ""
+
+#: core/lib/settings.ui.php:270
+msgid "instead {} or {true/false} or {ID} just use text or number without {} for example : instead load_more=\"{true/false}\" use this: load_more=\"false\""
+msgstr ""
+
+#: core/lib/widget.php:17
+msgid "Advanced %s Widget"
+msgstr ""
+
+#: core/lib/widget.php:65
+msgid "New title"
+msgstr ""
+
+#: core/lib/widget.php:96
+msgid "Limit:"
+msgstr ""
+
+#: core/lib/widget.php:102
+msgid "Exclude:"
+msgstr ""
+
+#: core/lib/widget.php:108
+msgid "HTML Option:"
+msgstr ""
+
+#: core/locationWidget/backend.php:86
+#: core/locationWidget/backend.php:102
+msgid "Map View on Featured"
+msgstr ""
+
+#: core/locationWidget/frontend.php:99
+msgid "Location Not Found!"
+msgstr ""
+
+#: core/skins/grid/render.php:29
+#: core/skins/list/render.php:81
+#: core/skins/single.php:14
+#: core/skins/slider.php:19
+msgid "FEATURED"
+msgstr ""
+
+#: core/skins/grid/render.php:65
+#: core/skins/list/render.php:63
+#: core/skins/slider.php:62
+msgid "VIEW %s"
+msgstr ""
+
+#: core/skins/grid/render.php:81
+#: core/skins/list/render.php:55
+#: core/skins/slider.php:54
+#: core/taxonomy-searchbar.php:147
+msgid "All Events"
+msgstr ""
+
+#: core/skins/grid/render.php:85
+#: core/skins/list/render.php:50
+#: core/skins/slider.php:49
+msgid "Ongoing Events"
+msgstr ""
+
+#: core/skins/grid/tpl.php:40
+#: core/skins/grid/tpl.php:44
+#: core/skins/list/tpl.php:40
+#: core/skins/list/tpl.php:44
+msgid "No item found!"
+msgstr ""
+
+#: core/skins/single.php:56
+msgid "About"
+msgstr ""
+
+#: core/skins/slider.php:82
+msgid "No location found!"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:134
+msgid "Search"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:143
+msgid "Sort by"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:144
+msgid "Name"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:145
+msgid "Added Date"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:161
+msgid "Sort"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:162
+msgid "DESC"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:163
+msgid "ASC"
+msgstr ""
+
+#: core/taxonomy-searchbar.php:166
+msgid "Filter"
+msgstr ""
+
+#: mec-advanced-location.php:72
+msgid "MEC Location Details Single Page"
+msgstr ""

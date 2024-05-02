@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: April 26, 2024 6:28 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.9
+WORDPRESS:	6.5.2
+PHP INFO:	7.4.29 | SAPI: apache2handler
+SERVER:		Apache/2.4.53 (Unix) OpenSSL/1.1.1o PHP/7.4.29 mod_perl/2.0.12 Perl/v5.34.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 29MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+MYSQL DUMP ERROR 1
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	Shell mysql dump error. Change SQL Mode to the "PHP Code" in the Duplicator > Settings > Packages.
+DETAILS:
+	/usr/bin/mysqldump: /opt/lampp/lib/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /usr/bin/mysqldump)
+/usr/bin/mysqldump: /opt/lampp/lib/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by /usr/bin/mysqldump)
+/usr/bin/mysqldump: /opt/lampp/lib/libstdc++.so.6: version `GLIBCXX_3.4.20' not found (required by /usr/bin/mysqldump)
+/usr/bin/mysqldump: /opt/lampp/lib/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by /usr/bin/mysqldump)
+/* Duplicator WordPress Timestamp: 2024-04-26 18:28:18*/
+/* DUPLICATOR_MYSQLDUMP_EOF */
+TRACE:
+	 1. class.pack.database.php : error (606)
+	 2. class.pack.database.php : mysqlDump (230)
+	 3. class.pack.php : build (1373)
+	 4. ctrl.package.php : runZipBuild (89)
+	 5. class-wp-hook.php : duplicator_package_build (324)
+	 6. class-wp-hook.php : apply_filters (348)
+	 7. plugin.php : do_action (517)
+	 8. admin-ajax.php : do_action (192)
+==================================================================================
+
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	Runtime error in DUP_Database::Build. Shell mysql dump error. Change SQL Mode to the "PHP Code" in the Duplicator > Settings > Packages.
+DETAILS:
+	Exception: Exception: Shell mysql dump error. Change SQL Mode to the "PHP Code" in the Duplicator > Settings > Packages. in /opt/lampp/htdocs/2024/depratieventos/wp-content/plugins/duplicator/classes/class.logging.php:301
+Stack trace:
+#0 /opt/lampp/htdocs/2024/depratieventos/wp-content/plugins/duplicator/classes/package/class.pack.database.php(606): DUP_Log::error('Shell mysql dum...', '/usr/bin/mysqld...', 1)
+#1 /opt/lampp/htdocs/2024/depratieventos/wp-content/plugins/duplicator/classes/package/class.pack.database.php(230): DUP_Database->mysqlDump('/usr/bin/mysqld...')
+#2 /opt/lampp/htdocs/2024/depratieventos/wp-content/plugins/duplicator/classes/package/class.pack.php(1373): DUP_Database->build(Object(DUP_Package), 1)
+#3 /opt/lampp/htdocs/2024/depratieventos/wp-content/plugins/duplicator/ctrls/ctrl.package.php(89): DUP_Package->runZipBuild()
+#4 /opt/lampp/htdocs/2024/depratieventos/wp-includes/class-wp-hook.php(324): duplicator_package_build('')
+#5 /opt/lampp/htdocs/2024/depratieventos/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/2024/depratieventos/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/2024/depratieventos/wp-admin/admin-ajax.php(192): do_action('wp_ajax_duplica...')
+#8 {main}
+TRACE:
+	 1. class.pack.database.php : error (259)
+	 2. class.pack.php : build (1373)
+	 3. ctrl.package.php : runZipBuild (89)
+	 4. class-wp-hook.php : duplicator_package_build (324)
+	 5. class-wp-hook.php : apply_filters (348)
+	 6. plugin.php : do_action (517)
+	 7. admin-ajax.php : do_action (192)
+==================================================================================
+

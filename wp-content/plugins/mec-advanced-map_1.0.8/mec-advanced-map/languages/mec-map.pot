@@ -1,0 +1,103 @@
+# Copyright (C) 2022 Webnus
+# This file is distributed under the same license as the MEC Advanced Map plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MEC Advanced Map 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mec-advanced-map\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-06T13:25:50+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: mec-map\n"
+
+#. Plugin Name of the plugin
+msgid "MEC Advanced Map"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://webnus.net/modern-events-calendar/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Now you can use OpenStreetMap instead of Google Maps and enjoy new features such as Street, Region, etc. for detailed and precise filtering. Display filters and events next to the map in a new view."
+msgstr ""
+
+#. Author of the plugin
+msgid "Webnus"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://webnus.net"
+msgstr ""
+
+#: core/admin/admin.php:123
+msgid "Disabled"
+msgstr ""
+
+#: core/admin/admin.php:124
+msgid "Dropdown"
+msgstr ""
+
+#: core/admin/admin.php:155
+msgid "Default map"
+msgstr ""
+
+#: core/admin/admin.php:164
+msgid "Scroll Wheel"
+msgstr ""
+
+#: core/admin/admin.php:306
+msgid "Location"
+msgstr ""
+
+#: core/checkLicense/update-activation.php:268
+msgid "Activation failed. Please check your purchase code or license type.<br><b>Note: Your purchase code should match your licesne type.</b>"
+msgstr ""
+
+#: core/checkLicense/update-activation.php:268
+msgid "Troubleshooting"
+msgstr ""
+
+#: core/ui/ui.php:315
+msgid "Show on OpenstreetMap"
+msgstr ""
+
+#: core/ui/ui.php:339
+msgid "Show on Google Map"
+msgstr ""
+
+#: core/ui/ui.php:375
+msgid "Next"
+msgstr ""
+
+#: core/ui/ui.php:379
+msgid "Prev"
+msgstr ""
+
+#: core/ui/ui.php:382
+msgid "My Position"
+msgstr ""
+
+#: mec-advanced-map.php:128
+msgid "State"
+msgstr ""
+
+#: mec-advanced-map.php:129
+msgid "City"
+msgstr ""
+
+#: mec-advanced-map.php:130
+msgid "Region"
+msgstr ""
+
+#: mec-advanced-map.php:131
+msgid "Street"
+msgstr ""
+
+#: mec-advanced-map.php:132
+msgid "Postal code"
+msgstr ""

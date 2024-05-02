@@ -1,0 +1,35 @@
+.mec-map-boxshow .mec-map-lightbox-wp {
+	width: unset !important;
+	padding: 10px 15px 0;
+}
+
+a.mec-go-to-map {
+	display: block;
+	width: 100%;
+	background: #fff;
+	padding: 13px 13px 8px !important;
+	color: #000;
+}
+
+.mec-map-lightbox-link {
+	padding: 0 !important;
+}
+
+a.mec-go-to-map:hover {
+	color: #4ddbf2;
+}
+
+.mec-map-boxshow .mec-map-view-event-detail.mec-event-detail {
+    width: unset !important;
+    background: #ffffff;
+    color: #8f9395;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 1px 3px;
+    font-weight: 400;
+    border-radius: 3px;
+    letter-spacing: 0.3px;
+    margin: 0 0 6px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    cursor: pointer;
+}

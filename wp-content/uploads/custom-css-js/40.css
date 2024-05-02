@@ -1,0 +1,224 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+      
+body{
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.site-main > .page-header > .entry-title{
+    display:none;
+}
+
+.mec-wrap .mec-totalcal-box {
+    position: relative;
+    border: 1px solid transparent;
+    padding: 20px 5px;
+    margin: 0 0 20px;
+    background: transparent;
+    overflow: hidden;
+    box-shadow: 0 3px 2px 0 rgba(0,0,0,.012);
+    min-height: 78px;
+}
+
+.mec-search-form.mec-totalcal-box{
+	display:flex;
+}
+.mec-event-list-classic{
+	 display: inline-flex;
+	  flex-wrap: wrap;
+	  gap: 35px;
+}
+
+.mec-event-list-classic > article{
+	/*margin: 30px;*/
+	flex: 1 1 350px;
+}
+
+.mec-event-list-classic > .mec-month-divider{
+	width:100%;
+}
+
+.mec-event-article > .mec-event-image{
+ width:100%;   
+}
+
+.mec-widget .mec-event-list-classic .mec-event-image {
+    float: left !important;
+    width: 100% !important;
+	position: inherit;
+	margin-bottom:15px;
+}
+
+.mec-event-list-classic .mec-event-image img{
+		border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+
+
+.mec-widget .mec-event-list-classic .mec-event-article {
+    margin-bottom: 0;
+    padding: 0;
+    position: relative;
+    min-height: 86px;
+    padding-left: 0;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    text-align: center;
+-webkit-box-shadow: 5px 5px 24px -6px rgba(65,65,65,0.75);
+-moz-box-shadow: 5px 5px 24px -6px rgba(65,65,65,0.75);
+box-shadow: 5px 5px 24px -6px rgba(65,65,65,0.75);
+}
+
+.btn-fecha,.btn-hora, .btn-lugar{
+	background-repeat: no-repeat;
+    background-position: left center;
+	background-size: 35px;
+    float: none;
+    width: 85%;
+    margin: 15px auto;
+    padding: 10px;
+    padding-left: 55px;
+    text-align: left;
+}
+
+.btn-fecha{	
+    background-image: url(https://depratieventos.misiva.com.ec/assets/img/Calendario_hover.svg);        
+}
+.btn-hora{
+	background-image: url(https://depratieventos.misiva.com.ec/assets/img/Reloj.svg);
+}
+
+.btn-lugar{
+	background-image: url(https://depratieventos.misiva.com.ec/assets/img/Ubicacion.svg);
+}
+
+.btn-ver-mas,
+.btn-agendar,
+.btn-agenda-evento{
+	cursor:pointer;
+}
+
+.btn-agendar,
+.btn-agenda-evento{
+	float: none;
+    width: 70%;
+	margin: 15px auto;
+    padding: 10px;
+	color:#fff;
+	text-align:center;
+	background:#f4343f;
+}
+
+.btn-ver-mas{
+	float: none;
+    width: 50%;
+	margin: 15px auto;
+    padding: 10px;
+	color:#000000;
+	text-align:center;
+	background:#ededed;
+}
+
+.mec-event-detail{
+	display:none;
+}
+.mec-event-article>.mec-event-date.mec-color {
+	display:none;
+}
+
+.mec-widget .mec-event-list-classic .mec-event-title {
+    font-size: 18px;
+    text-transform: none;
+}
+
+.btn-ver-mas > .mec-color-hover {
+ color:#686767;   
+}
+
+.elementor.elementor-88.elementor-location-footer{
+	margin-top:50px;
+}
+
+.mec-checkboxes-search .mec-searchbar-category-wrap, .mec-wrap .mec-totalcal-box .mec-totalcal-view span, .mec-wrap .mec-totalcal-box input, .mec-wrap .mec-totalcal-box select {
+    width: auto;
+    min-height: 36px
+    height: 40px;
+    line-height: 40px;    
+    border: 1px solid #000;    
+}
+
+.mec-search-bar-wrap input#mec-search-bar-input { 
+	background-color:#f4343f;
+    border: 1px solid #f4343f;
+}
+
+.mec-wrap .mec-totalcal-box i { 
+    border: 1px solid #000;    
+}
+
+:root, ::before, ::after {
+	--mec-color-skin: #000;
+}
+
+.mec-month-divider{
+	display:none;
+}
+
+.home #site-header .header-inner{
+					display:none !important;
+				}
+.home #site-header{
+    display: none;
+}
+
+#comments{
+	display:none !important;
+}
+
+.mec-events-meta-group.mec-events-meta-group-countdown{
+	display:none;
+}
+
+.mec-event-export-module.mec-frontbox{
+	display:none;
+}
+
+.ocultar-grid{
+	display:none !important;
+}
+
+@media only screen and (max-width: 600px) {
+	
+	.elementor.elementor-88.elementor-location-footer{
+		margin-top:25px;
+	}
+	
+	.mec-event-list-classic > article{
+		flex: 1 1 300px;
+	}	
+
+	.btn-lugar {
+		background-image: url('https://depratieventos.misiva.com.ec/assets/img/Ubicacion.svg');
+	}
+	
+	.btn-fecha, .btn-hora, .btn-lugar{
+		background-size: 27px;
+		width: 85%;
+		margin: 3px auto;
+		padding: 4px;
+		padding-left: 40px;
+		text-align: left;
+	}
+	
+	.btn-fecha{
+		background-position: left bottom;		
+	}
+	
+	.mec-event-list-classic>.mec-event-article>h4.mec-event-title>a{
+		display:none;
+	}
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

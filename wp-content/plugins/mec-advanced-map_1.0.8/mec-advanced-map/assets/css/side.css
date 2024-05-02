@@ -1,0 +1,8 @@
+.mec-map-boxshow {
+  border: none;
+  margin: 0;
+  border-bottom: 1px solid #efefef;
+  padding-bottom: 20px;
+  padding: 8px 10px 7px;
+  box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.01) inset;
+}

@@ -1,0 +1,104 @@
+.mec-map-view-event-detail.mec-event-detail {
+    width: auto !important;
+    font-size: 13px;
+    background: #f7f7f7;
+}
+
+.mec-map-boxshow .mec-map-lightbox-wp,
+.leaflet-popup-content .mec-map-lightbox-wp {
+    width: auto !important;
+}
+
+a.mec-go-to-map {
+    display: block;
+    width: 100%;
+    background: #fff;
+    padding: 13px 13px 8px !important;
+    color: #000;
+}
+
+.mec-map-lightbox-link {
+    padding: 0 !important;
+}
+
+a.mec-go-to-map:hover {
+    color: #4ddbf2;
+}
+
+.mec-map-adction {
+    text-align: right;
+}
+
+.mec-map-btn {
+    margin: 5px !important;
+    padding: 6px !important;
+    clear: none !important;
+    opacity: 0.7;
+    border-radius: 4px !important;
+}
+
+.mec-map-input {
+    margin-left: 40px !important;
+    padding: 5px;
+    border-radius: 4px !important;
+    min-width: 152px;
+    opacity: 0.7;
+    padding: 3px !important;
+}
+
+#mec-map-next,
+#mec-map-myposition,
+#mec-map-prev {
+    border-bottom: none;
+    letter-spacing: .5px;
+    transition: all .5s ease;
+    padding: 6px 10px 3px !important;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 2px !important;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    margin-right: 5px !important;
+    margin-top: 10px !important;
+    opacity: 1;
+    background: #fff;
+    outline: none;
+    margin-bottom: 0 !important;
+    line-height: 18px;
+    color: #000;
+    font-weight: normal;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+#mec-map-next {
+    margin-right: 10px !important;
+}
+
+#mec-map-next:hover,
+#mec-map-myposition:hover,
+#mec-map-prev:hover {
+    background: rgb(235, 235, 235);
+    color: #000;
+}
+
+.mec-leaflet-searchbox input {
+    margin-left: 10px;
+    padding-left: 10px !important;
+    opacity: 0.9;
+    border: none;
+    font-size: 12px !important;
+    height: 30px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    font-family: Roboto, Arial, sans-serif;
+    z-index: 9999;
+}
+
+.leaflet-top.leaflet-right.mec-leaflet-searchbox {
+    top: 35px;
+}
+
+#mec-map-myposition {
+    right: 5px;
+    position: absolute;
+    top: 35px;
+    width: 105px;
+}

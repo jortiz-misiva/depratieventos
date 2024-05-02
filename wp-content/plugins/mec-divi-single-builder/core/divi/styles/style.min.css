@@ -1,0 +1,55 @@
+.post-type-mec_esdb .search-box .button,
+.post-type-mec_esdb .tablenav .button,
+.post-type-mec_esdb .page-title-action:active,
+.post-type-mec_esdb .page-title-action {
+    display: block;
+    font-size: 1em;
+    padding: 6px 22px;
+    margin-right: 3px;
+    line-height: 28px;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 2px;
+    box-shadow: 0 3px 10px -4px #008aff;
+    text-shadow: none;
+    background: #008aff;
+    background: linear-gradient(95deg,#36a2ff 0,#008aff 50%,#0072ff 100%);
+    border: none;
+    transition: .24s;
+}
+
+.post-type-mec_esdb .page-title-action {
+    max-width: fit-content;
+}
+
+.post-type-mec_esdb .search-box .button:hover,
+.post-type-mec_esdb .tablenav .button:hover,
+.post-type-mec_esdb .page-title-action:hover {
+    background: #222;
+    background: linear-gradient(95deg,#555 0,#222 50%,#000 100%);
+    box-shadow: 0 5px 23px -7px rgba(0,0,0,.5);
+    color: #fff;
+}
+
+.post-type-mec_esdb .tablenav .actions select,
+.post-type-mec_esdb .search-box input[name="s"],
+.post-type-mec_esdb .tablenav .search-plugins input[name="s"],
+.post-type-mec_esdb .tagsdiv .newtag{
+    border: solid 1px #ddd;
+    border-radius: 2px;
+    height: 40px;
+    line-height: 38px;
+    padding-left: 10px;
+    box-shadow: 0 3px 10px -2px rgba(0,0,0,.05), inset 0 1px 2px rgba(0,0,0,.02);
+    margin-bottom: 15px;
+}
+
+.mec-single-event .mec-events-meta-group-booking,
+.mec-single-event .mec-frontbox {
+    margin-bottom: 70px;
+    padding: 20px;
+    border: none;
+    background: #f7f7f7;
+    box-shadow: none;
+}
